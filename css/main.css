@@ -29,7 +29,6 @@ ul {
 li {
   display: inline-block;
   text-align: center;
-  justify-content: center;
 }
 
 a {
@@ -37,6 +36,7 @@ a {
   text-decoration: none;
   color: #fff;
   align-items: stretch;
+  justify-content: center;
 }
 
 .left {
